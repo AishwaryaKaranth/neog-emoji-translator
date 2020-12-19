@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  background-image: url("https://i.pinimg.com/736x/7c/b1/86/7cb18679659f791b1191bea97b74dfc0.jpg");
+  height: 100%;
+  width: 100%;
+}
+input {
+  font-size: larger;
+  padding: 1rem;
+}
